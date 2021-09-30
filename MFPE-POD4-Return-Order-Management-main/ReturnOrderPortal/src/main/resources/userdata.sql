@@ -1,0 +1,1 @@
+insert into MYUSER values  (101,'user1','pwd1'), (102,'user2','pwd2'), (103,'user3','pwd3');
